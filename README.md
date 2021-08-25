@@ -1,5 +1,5 @@
 # Integração com Banco de dados Firebase
-Um sistema de cadastro de usuários simples porém feito para entender como funciona a integração com um banco de dados externo
+Um sistema de cadastro de usuários feito com o NextJS simples porém feito para entender como funciona a integração com um banco de dados externo
 usando o Firebase
 
 <br>
